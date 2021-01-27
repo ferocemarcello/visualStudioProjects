@@ -1,0 +1,9 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\bin\Debug\CurrencyClientProject.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\bin\Debug\CurrencyClientProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\bin\Debug\CurrencyClientProject.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\obj\Debug\CurrencyClientProject.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\obj\Debug\CurrencyClientProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\obj\Debug\CurrencyClientProject.pdb
+E:\VisualStudio2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\bin\Debug\CurrencyClientProject.exe.config
+E:\VisualStudio2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\obj\Debug\CurrencyClientProject.exe
+E:\VisualStudio2015\Projects\ComputerScience\Programming\CurrencyClient\CurrencyClientProject\obj\Debug\CurrencyClientProject.pdb

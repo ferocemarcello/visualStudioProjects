@@ -1,0 +1,10 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Component\bin\Debug\Login_Component.dll
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Component\bin\Debug\Login_Component.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Component\obj\Debug\Login_Component.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Component\obj\Debug\Login_Component.dll
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Component\obj\Debug\Login_Component.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Component\bin\Debug\Login_Component.dll
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Component\bin\Debug\Login_Component.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Component\obj\Debug\Login_Component.csprojResolveAssemblyReference.cache
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Component\obj\Debug\Login_Component.dll
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Component\obj\Debug\Login_Component.pdb

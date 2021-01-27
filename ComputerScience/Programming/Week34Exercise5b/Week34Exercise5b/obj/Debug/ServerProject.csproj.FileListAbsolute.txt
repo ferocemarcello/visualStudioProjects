@@ -1,0 +1,5 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise5b\Week34Exercise5b\obj\Debug\Week34Exercise5b.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise5b\Week34Exercise5b\obj\Debug\Week34Exercise5b.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise5b\Week34Exercise5b\bin\Debug\Week34Exercise5b.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise5b\Week34Exercise5b\bin\Debug\Week34Exercise5b.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise5b\Week34Exercise5b\bin\Debug\Week34Exercise5b.pdb

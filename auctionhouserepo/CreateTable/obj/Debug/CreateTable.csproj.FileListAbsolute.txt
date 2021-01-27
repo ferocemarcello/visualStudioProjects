@@ -1,0 +1,25 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\obj\Debug\CreateTable.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\bin\Debug\CreateTable.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\bin\Debug\CreateTable.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\bin\Debug\CreateTable.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\bin\Debug\AuctionHouseProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\bin\Debug\AuctionHouseProject.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\obj\Debug\CreateTable.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\CreateTable\obj\Debug\CreateTable.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\CreateTable.exe.config
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\CreateTable.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\CreateTable.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\AuctionHouseProject.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\mscorlib.dll
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\System.Net.Http.dll
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\AuctionHouseProject.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\System.Net.Http.xml
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\it\mscorlib.resources.dll
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\normidna.nlp
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\normnfc.nlp
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\normnfd.nlp
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\normnfkc.nlp
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\bin\Debug\normnfkd.nlp
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\obj\Debug\CreateTable.csprojResolveAssemblyReference.cache
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\obj\Debug\CreateTable.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\CreateTable\obj\Debug\CreateTable.pdb

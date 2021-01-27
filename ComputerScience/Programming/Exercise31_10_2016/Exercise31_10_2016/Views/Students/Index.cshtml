@@ -1,0 +1,44 @@
+﻿@model Exercise31_10_2016.Models.Students.Repository
+@{
+    ViewBag.Title = "Student Index";
+}
+
+<h2>University Items</h2>
+@using (Html.BeginForm())
+{
+    
+    <table>
+  
+        <tr>
+            <td>
+                <b>
+                    @Html.Label("All The Students");</b>
+                <br />
+                @foreach (var s in Model.GetStudents())
+                {
+                    string ss = "Enrollment number: " + s.EnrollmentNo.ToString() + " Name: " + s.StudentName;
+                    @ss<br />
+                }
+                <b>@Html.Label("All The Faculties");</b><br />
+                @foreach (var f in Model.GetFaculties())
+                {
+                    string fs = "Faculty Id: " + f.FacultyId + " Name: " + f.FacultyName;
+                    @fs<br />
+                }
+                <b>@Html.Label("All The Courses");</b><br />
+                @foreach (var c in Model.GetCourses())
+                {
+                    string cs = "Course Id: " + c.CourseId + " Name: " + c.CourseName;
+                    @cs<br />
+                }
+</td>
+            <td>
+                <input name="submit" type="submit" id="submitStudents" value="Operations on Students" /><br />
+                <input name="submit" type="submit" id="submitFaculties" value="Operations on Faculties" /><br />
+                <input name="submit" type="submit" id="submitCourses" value="Operations on Courses" /><br />
+                
+            </td>
+        </tr>
+    </table>
+    
+}

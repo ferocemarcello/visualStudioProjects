@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\TestWriteReadFileDll\TestWriteReadFileDll\bin\Debug\TestWriteReadFileDll.exe.config
+D:\VisualStudio2015\Projects\TestWriteReadFileDll\TestWriteReadFileDll\bin\Debug\TestWriteReadFileDll.exe
+D:\VisualStudio2015\Projects\TestWriteReadFileDll\TestWriteReadFileDll\bin\Debug\TestWriteReadFileDll.pdb
+D:\VisualStudio2015\Projects\TestWriteReadFileDll\TestWriteReadFileDll\obj\Debug\TestWriteReadFileDll.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\TestWriteReadFileDll\TestWriteReadFileDll\obj\Debug\TestWriteReadFileDll.exe
+D:\VisualStudio2015\Projects\TestWriteReadFileDll\TestWriteReadFileDll\obj\Debug\TestWriteReadFileDll.pdb

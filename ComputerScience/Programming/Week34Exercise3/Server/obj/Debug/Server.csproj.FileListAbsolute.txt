@@ -1,0 +1,6 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise3\Server\bin\Debug\Server.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise3\Server\bin\Debug\Server.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise3\Server\bin\Debug\Server.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise3\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise3\Server\obj\Debug\Server.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise3\Server\obj\Debug\Server.pdb

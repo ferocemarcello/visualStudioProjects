@@ -1,0 +1,79 @@
+﻿@model Exercise31_10_2016.Models.Students.Repositoryother
+@{
+    ViewBag.Title = "CRUD";
+}
+<html>
+<head>
+    <script type="text/javascript">
+        function DisableInputs() { document.getElementById('inputs').style.display = 'none'; }
+        function AddCreateForm() {
+            DisableInputs();
+            document.getElementById("createForm").style.visibility = "visible";
+        }
+    </script>
+</head>
+
+<body>
+    <h2>CRUD</h2>
+    <div id="inputs">
+        <input name="submit" type="submit" id="CreateSubmit" value="Create" onclick="return AddCreateForm()" /><br />
+        <input name="submit" type="submit" id="ReadSubmit" value="Read" /><br />
+        <input name="submit" type="submit" id="UpdateSubmit" value="Update" /><br />
+        <input name="submit" type="submit" id="DeleteSubmit" value="Delete" /><br />
+    </div>
+        <form id="createForm" visibility="hidden">
+
+            @if (Model.operationTopic == "s" || Model.operationTopic == "f")
+            {
+                if (Model.operationTopic == "s")
+                {
+                    <text>Enrollment Number:</text>
+                    @Html.TextBox("id");
+                    //<input name="id" type="number" id="enNum" /><br>
+                    <text>Name</text>
+                    @Html.TextBox("name");
+                    //<input name="name" type="text" id="name" />
+                }
+                else
+                {
+                    <text>Faculty id:</text>
+                    @Html.TextBox("id");
+                    //<input name="id" type="number" id="fid" /><br>
+                    <text>Faculty Name</text>
+                    @Html.TextBox("name");
+                    //<input name="name" type="text" id="faname" />
+                }
+
+                <br /><b>Select Available Courses</b><br />
+                foreach (var c in Model.repo.GetCourses())
+                {
+                    string s = c.CourseName;
+                    @Html.CheckBox("courses");
+                    //<input type="checkbox" name="courses" value=@s>
+                    @s
+                    <br />
+
+                }
+            }
+            @if (Model.operationTopic == "c")
+            {
+                <text>Course id:</text>
+                //<input name="id" type="number" id="cid" /><br>
+                @Html.TextBox("id");
+                <text>Course Name</text>
+                //<input name="name" type="text" id="coname" />
+                @Html.TextBox("name");
+            }
+
+            <input name="submit" type="submit" id="createSubmit" value="Create" />
+        </form>
+    <script>
+        document.getElementById("createForm").style.visibility = "hidden";
+    </script>
+    
+
+</body>
+</html>
+
+
+

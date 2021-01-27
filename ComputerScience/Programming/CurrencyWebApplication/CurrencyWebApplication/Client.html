@@ -1,0 +1,40 @@
+﻿<script>
+
+    // Testing of WebApi services
+    // Place this content in a HTML page on the website with you WebApi services
+    // Running in Internet Explorer you might also debug it
+
+    function WebApiRequest(apiUri, requestType, httpBodyTxt)
+    {
+        // apiUri           : WebApi  fx "http://localhost:2715/api/Currency/?"  or "/api/Regne?a=5&b=7"
+        // requestType      : "GET", "POST", "PUT" or "DELETE"
+        // httpBodyTxt      : "data {'Id':2, 'Name':'My New Name'}"
+
+        document.writeln(requestType + " request " + apiUri + "<br/>")
+        //        alert(requestType + " request" + apiUri);
+        httpReq = new XMLHttpRequest();
+        httpReq.onloadend = onloadend_action;      // set callback function
+        httpReq.open(requestType, apiUri, false);   // here synchronous
+        httpReq.setRequestHeader("Content-Type", "application/json");
+        httpReq.send(httpBodyTxt);
+
+        //Async callback function
+        function onloadend_action() {
+            var responseTxt = httpReq.responseText;
+            document.writeln("response:<br/>" + responseTxt+"<br/>")
+            //            alert("response:\r\n" + responseTxt);
+        }
+
+    }
+    WebApiRequest("http://localhost:2715/api/Currency/GetAllConversions", "GET", "XML");
+
+    /*WebApiRequest("http://localhost:2715/api/Currency/getCurrencyObjects", "GET", "json");
+    WebApiRequest("http://localhost:2715/api/Currency/ConvertFromIsoToIsoKeepSession/?iso1=USD&iso2=NOK&amount=100", "GET", "json");
+    WebApiRequest("http://localhost:2715/api/Currency/ConvertFromIsoToIsoKeepSession/?iso1=GBP&iso2=SEK&amount=150", "GET", "json");
+    WebApiRequest("http://localhost:2715/api/Currency/GetAllConversions", "GET", "xml");*/
+    
+    //WebApiRequest("http://localhost:2715/api/Calc/UserMaxAge/", "PUT", "{'name':marcello, 'surname':'feroce','age'=21}", "{'name':shapour, 'surname':'nemati','age'=20}","json");
+    document.writeln("<br/><br/>End of test<br/>")
+
+</script>
+

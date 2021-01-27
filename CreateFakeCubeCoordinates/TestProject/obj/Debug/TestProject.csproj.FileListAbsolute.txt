@@ -1,0 +1,9 @@
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\bin\Debug\TestProject.dll
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\bin\Debug\TestProject.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\bin\Debug\ProgramProject.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\bin\Debug\ProgramProject.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\obj\Debug\TestProject.dll
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\TestProject\obj\Debug\TestProject.pdb

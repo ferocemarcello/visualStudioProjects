@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginProject03_10_1995", "LoginProject03_10_1995\LoginProject03_10_1995.csproj", "{848BFEE9-963A-474D-B986-E42FAFA4FB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginModule", "LoginModule\LoginModule.csproj", "{10961151-5682-4E1A-BAC9-5D68E9F395AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848BFEE9-963A-474D-B986-E42FAFA4FB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848BFEE9-963A-474D-B986-E42FAFA4FB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848BFEE9-963A-474D-B986-E42FAFA4FB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848BFEE9-963A-474D-B986-E42FAFA4FB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10961151-5682-4E1A-BAC9-5D68E9F395AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10961151-5682-4E1A-BAC9-5D68E9F395AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10961151-5682-4E1A-BAC9-5D68E9F395AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10961151-5682-4E1A-BAC9-5D68E9F395AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

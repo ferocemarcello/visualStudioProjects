@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\TestWriteOnConfigFile\TestWriteOnConfigFile\bin\Debug\TestWriteOnConfigFile.exe.config
+D:\VisualStudio2015\Projects\TestWriteOnConfigFile\TestWriteOnConfigFile\bin\Debug\TestWriteOnConfigFile.exe
+D:\VisualStudio2015\Projects\TestWriteOnConfigFile\TestWriteOnConfigFile\bin\Debug\TestWriteOnConfigFile.pdb
+D:\VisualStudio2015\Projects\TestWriteOnConfigFile\TestWriteOnConfigFile\obj\Debug\TestWriteOnConfigFile.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\TestWriteOnConfigFile\TestWriteOnConfigFile\obj\Debug\TestWriteOnConfigFile.exe
+D:\VisualStudio2015\Projects\TestWriteOnConfigFile\TestWriteOnConfigFile\obj\Debug\TestWriteOnConfigFile.pdb

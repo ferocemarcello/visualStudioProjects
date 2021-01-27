@@ -1,0 +1,9 @@
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\bin\Debug\TestExercise.exe
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\bin\Debug\TestExercise.pdb
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

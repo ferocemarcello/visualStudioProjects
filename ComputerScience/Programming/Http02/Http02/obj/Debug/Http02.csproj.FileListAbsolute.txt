@@ -1,0 +1,6 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Http02\Http02\bin\Debug\Http02.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Http02\Http02\bin\Debug\Http02.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Http02\Http02\bin\Debug\Http02.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Http02\Http02\obj\Debug\Http02.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Http02\Http02\obj\Debug\Http02.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Http02\Http02\obj\Debug\Http02.csprojResolveAssemblyReference.cache

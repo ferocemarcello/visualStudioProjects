@@ -1,0 +1,12 @@
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\obj\Debug\SimpleRegularCube.csprojResolveAssemblyReference.cache
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\SimpleRegularCube.exe.config
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\SimpleRegularCube.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\SimpleRegularCube.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\ProgramProject.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\ProgramProject.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\obj\Debug\SimpleRegularCube.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\obj\Debug\SimpleRegularCube.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\TestProject.dll
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\TestProject.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\SimpleRegularCube\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

@@ -1,0 +1,26 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\TryDb.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\TryDb.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\TryDb.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\obj\Debug\TryDb.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\obj\Debug\TryDb.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\obj\Debug\TryDb.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Login_Component.dll
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Login_Module.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Login_Test.dll
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Login_Component.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Login_Module.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Login_Test.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\TryDb\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\TryDb.exe.config
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\TryDb.exe
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\TryDb.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\Login_Component.dll
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\Login_Module.exe
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\Login_Test.dll
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\Login_Component.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\Login_Module.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\bin\Debug\Login_Test.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\obj\Debug\TryDb.csprojResolveAssemblyReference.cache
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\obj\Debug\TryDb.exe
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\TryDb\obj\Debug\TryDb.pdb

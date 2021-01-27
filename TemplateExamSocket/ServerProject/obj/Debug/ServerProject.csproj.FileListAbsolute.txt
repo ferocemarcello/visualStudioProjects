@@ -1,0 +1,6 @@
+E:\VisualStudio2015\Projects\TemplateExamSocket\ServerProject\bin\Debug\ServerProject.exe.config
+E:\VisualStudio2015\Projects\TemplateExamSocket\ServerProject\bin\Debug\ServerProject.exe
+E:\VisualStudio2015\Projects\TemplateExamSocket\ServerProject\bin\Debug\ServerProject.pdb
+E:\VisualStudio2015\Projects\TemplateExamSocket\ServerProject\obj\Debug\ServerProject.csprojResolveAssemblyReference.cache
+E:\VisualStudio2015\Projects\TemplateExamSocket\ServerProject\obj\Debug\ServerProject.exe
+E:\VisualStudio2015\Projects\TemplateExamSocket\ServerProject\obj\Debug\ServerProject.pdb

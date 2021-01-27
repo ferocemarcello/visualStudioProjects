@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fa0a1bf5-9dd2-4da3-83cd-fa274ce33f46" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:7069/AuctionService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AuctionService.disco" MetadataType="Disco" ID="7fd53d89-56d6-47e7-8458-a3eaecc517e4" SourceId="1" SourceUrl="http://localhost:7069/AuctionService.svc?disco" />
+    <MetadataFile FileName="AuctionService.xsd" MetadataType="Schema" ID="2857b980-3eef-440e-a911-18cf49c26edd" SourceId="1" SourceUrl="http://localhost:7069/AuctionService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AuctionService1.xsd" MetadataType="Schema" ID="6a2daadd-3b25-42d2-afe9-da2e1051f4da" SourceId="1" SourceUrl="http://localhost:7069/AuctionService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AuctionService.wsdl" MetadataType="Wsdl" ID="5cb55f15-3ab3-4fc2-81e8-4d239892cca4" SourceId="1" SourceUrl="http://localhost:7069/AuctionService.svc?wsdl" />
+    <MetadataFile FileName="AuctionService2.xsd" MetadataType="Schema" ID="99ec799f-0c30-4c42-8dea-7ad79dbc9ded" SourceId="1" SourceUrl="http://localhost:7069/AuctionService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

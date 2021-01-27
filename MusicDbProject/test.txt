@@ -1,0 +1,39 @@
+private static IMongoClient client;
+        private static IMongoDatabase db;
+		client = new MongoClient("mongodb://admin:admin@"+host);
+            db = client.GetDatabase(dbName);
+IMongoCollection<BsonDocument> collection = Server.ServerMain.db.GetCollection<BsonDocument>("Artist");
+public List<Genre> GetAllGenres()
+        {
+            IMongoCollection<BsonDocument> collection = db.GetCollection<BsonDocument>("Genre");
+            var jlist=collection.AsQueryable().ToList();
+            List<Genre> glist = new List<Genre>();
+            foreach(var x in jlist)
+            {
+                glist.Add(Genre.ConvertJsonToGenre());
+            }
+            return glist;
+        }
+
+private static IMongoClient client;
+        private static IMongoDatabase db;
+        public MainService()
+        {
+            client = new MongoClient("mongodb://admin:admin@127.0.0.1:27017");
+            db = client.GetDatabase("musicDb");
+        }
+[DataContract]
+    public class Genre
+    {
+        [DataMember]
+        public string Name { get; set; }
+        public Genre(string genreName)
+        {
+            Name = genreName;
+        }
+
+        public static Genre ConvertJsonToGenre()
+        {
+            throw new NotImplementedException();
+        }
+    }

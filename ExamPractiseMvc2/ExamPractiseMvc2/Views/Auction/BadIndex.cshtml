@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ExamPractiseMvc2.AuctionServiceReference1.AuctionItem>
+
+@{
+    ViewBag.Title = "BadIndex";
+}
+
+<h2>BadIndex</h2>
+<label>No items matching with the input</label>
+<form method="get">
+    <input type="number" name="itemnumber" id="inumber" />
+    <input type="submit" name="submitLookForItem" id="submitItem" value="look for item" formaction='@Url.Action("LookForItem")' />
+</form>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.ItemDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemNumber)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ItemDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ItemNumber)
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

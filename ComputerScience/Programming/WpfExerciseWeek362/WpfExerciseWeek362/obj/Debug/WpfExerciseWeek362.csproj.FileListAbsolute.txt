@@ -1,0 +1,13 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\bin\Debug\WpfExerciseWeek362.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\bin\Debug\WpfExerciseWeek362.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\bin\Debug\WpfExerciseWeek362.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\WpfExerciseWeek362.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\MainWindow.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\App.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\WpfExerciseWeek362_MarkupCompile.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\MainWindow.baml
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\WpfExerciseWeek362.g.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\WpfExerciseWeek362.Properties.Resources.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\WpfExerciseWeek362.csproj.GenerateResource.Cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\WpfExerciseWeek362.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek362\WpfExerciseWeek362\obj\Debug\WpfExerciseWeek362.pdb

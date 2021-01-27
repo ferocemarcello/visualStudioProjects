@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CurrencyServer" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:9295/CurrencyServer.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:9295/CurrencyServer.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:9295/CurrencyServer.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CurrencyServer" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ICurrencyServer_DoWork_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoWork" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_DoWork_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoWorkResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_DkktoEuro_InputMessage">
+    <wsdl:part name="parameters" element="tns:DkktoEuro" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_DkktoEuro_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DkktoEuroResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_IsoToExchangeRate_InputMessage">
+    <wsdl:part name="parameters" element="tns:IsoToExchangeRate" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_IsoToExchangeRate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:IsoToExchangeRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_getCurrencyObjects_InputMessage">
+    <wsdl:part name="parameters" element="tns:getCurrencyObjects" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_getCurrencyObjects_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getCurrencyObjectsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_ConvertFromIsoToIso_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConvertFromIsoToIso" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_ConvertFromIsoToIso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConvertFromIsoToIsoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_ChangeExchangeRate_InputMessage">
+    <wsdl:part name="parameters" element="tns:ChangeExchangeRate" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_ChangeExchangeRate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ChangeExchangeRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_CreateExchangeRate_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateExchangeRate" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_CreateExchangeRate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateExchangeRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_ConvertFromIsoToIsoKeepSession_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConvertFromIsoToIsoKeepSession" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_ConvertFromIsoToIsoKeepSession_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConvertFromIsoToIsoKeepSessionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_allConversions_InputMessage">
+    <wsdl:part name="parameters" element="tns:allConversions" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_allConversions_OutputMessage">
+    <wsdl:part name="parameters" element="tns:allConversionsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_getNumberOfChanges_InputMessage">
+    <wsdl:part name="parameters" element="tns:getNumberOfChanges" />
+  </wsdl:message>
+  <wsdl:message name="ICurrencyServer_getNumberOfChanges_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getNumberOfChangesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ICurrencyServer">
+    <wsdl:operation name="DoWork">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/DoWork" message="tns:ICurrencyServer_DoWork_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/DoWorkResponse" message="tns:ICurrencyServer_DoWork_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DkktoEuro">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/DkktoEuro" message="tns:ICurrencyServer_DkktoEuro_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/DkktoEuroResponse" message="tns:ICurrencyServer_DkktoEuro_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="IsoToExchangeRate">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/IsoToExchangeRate" message="tns:ICurrencyServer_IsoToExchangeRate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/IsoToExchangeRateResponse" message="tns:ICurrencyServer_IsoToExchangeRate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getCurrencyObjects">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/getCurrencyObjects" message="tns:ICurrencyServer_getCurrencyObjects_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/getCurrencyObjectsResponse" message="tns:ICurrencyServer_getCurrencyObjects_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConvertFromIsoToIso">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/ConvertFromIsoToIso" message="tns:ICurrencyServer_ConvertFromIsoToIso_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/ConvertFromIsoToIsoResponse" message="tns:ICurrencyServer_ConvertFromIsoToIso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ChangeExchangeRate">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/ChangeExchangeRate" message="tns:ICurrencyServer_ChangeExchangeRate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/ChangeExchangeRateResponse" message="tns:ICurrencyServer_ChangeExchangeRate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateExchangeRate">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/CreateExchangeRate" message="tns:ICurrencyServer_CreateExchangeRate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/CreateExchangeRateResponse" message="tns:ICurrencyServer_CreateExchangeRate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConvertFromIsoToIsoKeepSession">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/ConvertFromIsoToIsoKeepSession" message="tns:ICurrencyServer_ConvertFromIsoToIsoKeepSession_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/ConvertFromIsoToIsoKeepSessionResponse" message="tns:ICurrencyServer_ConvertFromIsoToIsoKeepSession_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="allConversions">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/allConversions" message="tns:ICurrencyServer_allConversions_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/allConversionsResponse" message="tns:ICurrencyServer_allConversions_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getNumberOfChanges">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICurrencyServer/getNumberOfChanges" message="tns:ICurrencyServer_getNumberOfChanges_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICurrencyServer/getNumberOfChangesResponse" message="tns:ICurrencyServer_getNumberOfChanges_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ICurrencyServer" type="tns:ICurrencyServer">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DoWork">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/DoWork" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DkktoEuro">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/DkktoEuro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsoToExchangeRate">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/IsoToExchangeRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCurrencyObjects">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/getCurrencyObjects" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertFromIsoToIso">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/ConvertFromIsoToIso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChangeExchangeRate">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/ChangeExchangeRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateExchangeRate">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/CreateExchangeRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertFromIsoToIsoKeepSession">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/ConvertFromIsoToIsoKeepSession" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="allConversions">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/allConversions" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNumberOfChanges">
+      <soap:operation soapAction="http://tempuri.org/ICurrencyServer/getNumberOfChanges" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CurrencyServer">
+    <wsdl:port name="BasicHttpBinding_ICurrencyServer" binding="tns:BasicHttpBinding_ICurrencyServer">
+      <soap:address location="http://localhost:9295/CurrencyServer.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

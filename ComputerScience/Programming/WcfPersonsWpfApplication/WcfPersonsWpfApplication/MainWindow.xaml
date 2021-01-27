@@ -1,0 +1,16 @@
+﻿<Window x:Class="WcfPersonsWpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WcfPersonsWpfApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="789.315" Background="#00b300">
+    <Grid Margin="0,0,-8,0">
+        <Button x:Name="GetPersonsbutton" Content="Get all persons" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top" Width="171" Click="GetAllPersons_Click" Background="Black" Foreground="#00b300"/>
+        <Button x:Name="GetPersonsNamebutton" Content="Get all persons name" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Width="171" Click="GetAllPersonsName_Click" Background="Black" Foreground="#00b300"/>
+        <Button x:Name="GetPersonsPostNbutton" Content="Get all persons post number" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="171" Click="GetAllPersonsPostN_Click" Background="Black" Foreground="#00b300"/>
+        <Button x:Name="GetAllPersonsPersonNbutton" Content="Get all persons person number" HorizontalAlignment="Left" Margin="10,137,0,0" VerticalAlignment="Top" Width="171" Click="GetAllPersonsPersonN_Click" Background="Black" Foreground="#00b300"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="270" Margin="246,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="511" Background="Black" Foreground="LightGreen" />
+    </Grid>
+</Window>

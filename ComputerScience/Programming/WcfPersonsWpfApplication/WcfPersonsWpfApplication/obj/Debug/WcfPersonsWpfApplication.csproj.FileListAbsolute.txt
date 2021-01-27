@@ -1,0 +1,17 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\bin\Debug\WcfPersonsWpfApplication.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\App.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication_MarkupCompile.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication_MarkupCompile.lref
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\bin\Debug\WcfPersonsWpfApplication.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\bin\Debug\WcfPersonsWpfApplication.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.g.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.Properties.Resources.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.csproj.GenerateResource.Cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.pdb
+E:\VisualStudio2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\bin\Debug\WcfPersonsWpfApplication.exe.config
+E:\VisualStudio2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.exe
+E:\VisualStudio2015\Projects\ComputerScience\Programming\WcfPersonsWpfApplication\WcfPersonsWpfApplication\obj\Debug\WcfPersonsWpfApplication.pdb

@@ -1,0 +1,12 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\bin\Debug\Exercise1week34.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\bin\Debug\Exercise1week34.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\bin\Debug\Exercise1week34.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\obj\Debug\Exercise1week34.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\obj\Debug\Exercise1week34.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\bin\Debug\Exercise1week34.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\obj\Debug\Exercise1week34.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\obj\Debug\Exercise1week34.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\bin\Debug\Exercise1week34.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\bin\Debug\Exercise1week34.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Exercise1week34\obj\Debug\Server.csprojResolveAssemblyReference.cache

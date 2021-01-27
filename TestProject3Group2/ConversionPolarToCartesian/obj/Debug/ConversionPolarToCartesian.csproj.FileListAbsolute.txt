@@ -1,0 +1,9 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\bin\Debug\ConversionPolarToCartesian.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\bin\Debug\ConversionPolarToCartesian.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\bin\Debug\ConversionPolarToCartesian.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\obj\Debug\ConversionPolarToCartesian.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\obj\Debug\ConversionPolarToCartesian.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\obj\Debug\ConversionPolarToCartesian.pdb
+E:\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\bin\Debug\ConversionPolarToCartesian.exe.config
+E:\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\obj\Debug\ConversionPolarToCartesian.exe
+E:\Visual Studio 2015\Projects\TestProject3Group2\ConversionPolarToCartesian\obj\Debug\ConversionPolarToCartesian.pdb

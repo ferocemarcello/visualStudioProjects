@@ -1,0 +1,5 @@
+E:\VisualStudio2015\Projects\PractiseExamWCF\Client\bin\Debug\Client.exe.config
+E:\VisualStudio2015\Projects\PractiseExamWCF\Client\bin\Debug\Client.exe
+E:\VisualStudio2015\Projects\PractiseExamWCF\Client\bin\Debug\Client.pdb
+E:\VisualStudio2015\Projects\PractiseExamWCF\Client\obj\Debug\Client.exe
+E:\VisualStudio2015\Projects\PractiseExamWCF\Client\obj\Debug\Client.pdb

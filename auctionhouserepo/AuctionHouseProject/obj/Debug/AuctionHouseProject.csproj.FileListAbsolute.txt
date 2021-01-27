@@ -1,0 +1,33 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\AuctionHouseProject\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe.config
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe.config
+C:\Project Auction House\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe.config
+C:\Users\Mindaugas\Desktop\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe.config
+C:\Users\feroc\Desktop\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe.config
+C:\Users\feroc\Desktop\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe
+C:\Users\feroc\Desktop\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.pdb
+C:\Users\feroc\Desktop\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.csprojResolveAssemblyReference.cache
+C:\Users\feroc\Desktop\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.exe
+C:\Users\feroc\Desktop\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.csprojResolveAssemblyReference.cache
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\Client.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\Client.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\bin\Debug\Client.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\AuctionHouseProject\bin\Debug\Client.pdb
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe.config
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.exe
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.pdb
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.exe
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\AuctionHouseProject.pdb
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\Client.exe
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\bin\Debug\Client.pdb
+E:\VisualStudio2015\Projects\auctionhouserepo\AuctionHouseProject\obj\Debug\AuctionHouseProject.csprojResolveAssemblyReference.cache

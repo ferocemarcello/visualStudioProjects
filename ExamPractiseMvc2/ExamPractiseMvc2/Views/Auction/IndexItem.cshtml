@@ -1,0 +1,72 @@
+﻿@model IEnumerable<ExamPractiseMvc2.AuctionServiceReference1.AuctionItem>
+
+@{
+    ViewBag.Title = "IndexItem";
+}
+
+<h2>IndexItem</h2>
+
+<form method="get">
+    <input type="number" name="bidprice" id="inumber" />
+    <input type="text" name="customname" id="cname" />
+    <input type="text" name="customphone" id="cphone" />
+    <input type="submit" name="submitBid" id="sBid" value="Bid" formaction='@Url.Action("Bid")' />
+</form>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BidCustomName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BidCustomPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BidPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BidTimestamp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RatingPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BidCustomName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BidCustomPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BidPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BidTimestamp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ItemDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ItemNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RatingPrice)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,6 @@
+C:\Users\feroc\visual_studio_projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\feroc\visual_studio_projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\feroc\visual_studio_projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\feroc\visual_studio_projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\feroc\visual_studio_projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,9 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Client\bin\Debug\Client.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Client\bin\Debug\Client.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Client\bin\Debug\Client.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Client\obj\Debug\Client.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Exercise1week34\Client\obj\Debug\Client.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Client\bin\Debug\Client.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Client\obj\Debug\Client.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\Exercise1week34\Client\obj\Debug\Client.pdb

@@ -1,0 +1,19 @@
+C:\Users\feroc\Desktop\auctionhouserepo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Client\bin\Debug\Client.exe.config
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Client\bin\Debug\Client.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Client\bin\Debug\Client.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Client\obj\Debug\Client.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Client\obj\Debug\Client.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Client\bin\Debug\Client.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Client\bin\Debug\Client.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Client\bin\Debug\Client.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Client\obj\Debug\Client.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Client\obj\Debug\Client.pdb
+E:\VisualStudio2015\Projects\auctionhouserepo\Client\bin\Debug\Client.exe.config
+E:\VisualStudio2015\Projects\auctionhouserepo\Client\bin\Debug\Client.exe
+E:\VisualStudio2015\Projects\auctionhouserepo\Client\bin\Debug\Client.pdb
+E:\VisualStudio2015\Projects\auctionhouserepo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\VisualStudio2015\Projects\auctionhouserepo\Client\obj\Debug\Client.exe
+E:\VisualStudio2015\Projects\auctionhouserepo\Client\obj\Debug\Client.pdb

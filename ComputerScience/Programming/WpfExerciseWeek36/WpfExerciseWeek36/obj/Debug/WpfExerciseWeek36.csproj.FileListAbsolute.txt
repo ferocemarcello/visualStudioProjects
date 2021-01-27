@@ -1,0 +1,14 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\bin\Debug\WpfExerciseWeek36.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\bin\Debug\WpfExerciseWeek36.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\bin\Debug\WpfExerciseWeek36.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\WpfExerciseWeek36.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\MainWindow.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\App.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\WpfExerciseWeek36_MarkupCompile.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\MainWindow.baml
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\WpfExerciseWeek36.g.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\WpfExerciseWeek36.Properties.Resources.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\WpfExerciseWeek36.csproj.GenerateResource.Cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\WpfExerciseWeek36.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\WpfExerciseWeek36.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\WpfExerciseWeek36\WpfExerciseWeek36\obj\Debug\App.baml

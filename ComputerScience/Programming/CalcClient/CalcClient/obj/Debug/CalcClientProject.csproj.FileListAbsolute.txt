@@ -1,0 +1,6 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcClient\CalcClient\bin\Debug\CalcClientProject.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcClient\CalcClient\bin\Debug\CalcClientProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcClient\CalcClient\bin\Debug\CalcClientProject.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcClient\CalcClient\obj\Debug\CalcClientProject.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcClient\CalcClient\obj\Debug\CalcClientProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcClient\CalcClient\obj\Debug\CalcClientProject.pdb

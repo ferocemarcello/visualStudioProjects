@@ -1,0 +1,14 @@
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\JustTriangles.exe.config
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\JustTriangles.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\JustTriangles.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\ProgramProject.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\SimpleRegularCube.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\TestProject.dll
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\ProgramProject.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\SimpleRegularCube.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\TestProject.pdb
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\obj\Debug\JustTriangles.csprojResolveAssemblyReference.cache
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\obj\Debug\JustTriangles.exe
+E:\VisualStudio2015\Projects\CreateFakeCubeCoordinates\JustTriangles\obj\Debug\JustTriangles.pdb

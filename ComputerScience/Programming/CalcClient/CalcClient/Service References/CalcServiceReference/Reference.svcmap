@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a236d75a-9e3c-48b6-8ea1-1832f6f8abff" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:7965/CalcService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CalcService.xsd" MetadataType="Schema" ID="03f895ef-9010-4b92-b9a9-d578d1296276" SourceId="1" SourceUrl="http://localhost:7965/CalcService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CalcService1.xsd" MetadataType="Schema" ID="527b3f0c-b20a-4493-9966-13c750fa9b78" SourceId="1" SourceUrl="http://localhost:7965/CalcService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CalcService.disco" MetadataType="Disco" ID="bae9870a-93df-4b73-9df5-aed502079957" SourceId="1" SourceUrl="http://localhost:7965/CalcService.svc?disco" />
+    <MetadataFile FileName="CalcService2.xsd" MetadataType="Schema" ID="77e92d1c-2bd1-40f4-84f9-1e89de42a873" SourceId="1" SourceUrl="http://localhost:7965/CalcService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CalcService.wsdl" MetadataType="Wsdl" ID="1242dfa1-415d-4f7a-985a-ea64c90abb67" SourceId="1" SourceUrl="http://localhost:7965/CalcService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

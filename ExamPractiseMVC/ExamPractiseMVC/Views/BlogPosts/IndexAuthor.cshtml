@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ExamPractiseMVC.Models.BlogPost>
+
+@{
+    ViewBag.Title = "IndexAuthor";
+}
+
+<h2>IndexAuthor</h2>
+<label>Author: @ViewBag.Author</label>
+
+<form method="post">
+    @{/*<input type="text" name="content" id="cont" value='Write Content' />*/}
+    @Html.TextArea("content");
+    <input type="text" name="title" id="tit" value='Write Title' />
+    <input type="number" name="idnumber" id="idnum" value='0' />
+    <input type="submit" name="submitNewPost" id="submitPost" value="Create" formaction='@Url.Action("WriteNewPost")' />
+</form>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Content)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreateDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Author)
+        </th>
+        <th></th>
+    </tr>
+    
+@foreach (var item in Model.Where(m=>m.Author==ViewBag.Author)) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Content)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreateDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Author)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

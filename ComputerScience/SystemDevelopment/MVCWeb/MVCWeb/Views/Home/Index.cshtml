@@ -1,0 +1,19 @@
+﻿@model MVCWeb.Models.Home.Index
+<h1>Marcello's login page</h1>
+
+@using (Html.BeginForm(null, null, FormMethod.Post))
+{
+    <table border="1">
+    <tr>
+        <td>EMail:</td>
+        <td>@Html.TextBoxFor(p=>p.eMail)</td>
+    </tr>
+    <tr>
+        <td>Password:</td>
+        <td>@Html.PasswordFor(p => p.password)</td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" value="Login" /></td>
+    </tr>
+</table>
+}

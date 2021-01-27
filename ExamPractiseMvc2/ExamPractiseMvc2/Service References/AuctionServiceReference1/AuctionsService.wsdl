@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AuctionsService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:1559/AuctionsService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:1559/AuctionsService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:1559/AuctionsService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WCF_AuctionWebApplication" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IAuctionsService_GetAllAuctionItems_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAuctionItems" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionsService_GetAllAuctionItems_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAuctionItemsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionsService_GetAuctionItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAuctionItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionsService_GetAuctionItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAuctionItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionsService_CreateAuctionItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateAuctionItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionsService_CreateAuctionItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateAuctionItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionsService_ProvideBid_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProvideBid" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionsService_ProvideBid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProvideBidResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IAuctionsService">
+    <wsdl:operation name="GetAllAuctionItems">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionsService/GetAllAuctionItems" message="tns:IAuctionsService_GetAllAuctionItems_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionsService/GetAllAuctionItemsResponse" message="tns:IAuctionsService_GetAllAuctionItems_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAuctionItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionsService/GetAuctionItem" message="tns:IAuctionsService_GetAuctionItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionsService/GetAuctionItemResponse" message="tns:IAuctionsService_GetAuctionItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateAuctionItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionsService/CreateAuctionItem" message="tns:IAuctionsService_CreateAuctionItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionsService/CreateAuctionItemResponse" message="tns:IAuctionsService_CreateAuctionItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ProvideBid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionsService/ProvideBid" message="tns:IAuctionsService_ProvideBid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionsService/ProvideBidResponse" message="tns:IAuctionsService_ProvideBid_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IAuctionsService" type="tns:IAuctionsService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllAuctionItems">
+      <soap:operation soapAction="http://tempuri.org/IAuctionsService/GetAllAuctionItems" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuctionItem">
+      <soap:operation soapAction="http://tempuri.org/IAuctionsService/GetAuctionItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateAuctionItem">
+      <soap:operation soapAction="http://tempuri.org/IAuctionsService/CreateAuctionItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProvideBid">
+      <soap:operation soapAction="http://tempuri.org/IAuctionsService/ProvideBid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AuctionsService">
+    <wsdl:port name="BasicHttpBinding_IAuctionsService" binding="tns:BasicHttpBinding_IAuctionsService">
+      <soap:address location="http://localhost:1559/AuctionsService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

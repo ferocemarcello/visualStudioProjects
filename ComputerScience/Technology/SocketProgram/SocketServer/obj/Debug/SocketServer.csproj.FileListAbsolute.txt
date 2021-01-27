@@ -1,0 +1,9 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\SocketProgram\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\SocketProgram\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\SocketProgram\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\SocketProgram\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\SocketProgram\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\SocketProgram\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\Technology\SocketProgram\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\Technology\SocketProgram\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Technology\SocketProgram\SocketServer\obj\Debug\SocketServer.pdb

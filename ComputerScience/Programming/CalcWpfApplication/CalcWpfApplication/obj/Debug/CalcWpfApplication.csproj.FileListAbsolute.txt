@@ -1,0 +1,14 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\bin\Debug\CalcWpfApplication.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\bin\Debug\CalcWpfApplication.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\bin\Debug\CalcWpfApplication.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\App.g.cs
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication_MarkupCompile.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication_MarkupCompile.lref
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication.g.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication.Properties.Resources.resources
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication.csproj.GenerateResource.Cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\Programming\CalcWpfApplication\CalcWpfApplication\obj\Debug\CalcWpfApplication.pdb

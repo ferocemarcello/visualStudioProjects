@@ -1,0 +1,5 @@
+E:\VisualStudio2015\Projects\TemplateExamSocket\ClientProject\bin\Debug\ClientProject.exe.config
+E:\VisualStudio2015\Projects\TemplateExamSocket\ClientProject\bin\Debug\ClientProject.exe
+E:\VisualStudio2015\Projects\TemplateExamSocket\ClientProject\bin\Debug\ClientProject.pdb
+E:\VisualStudio2015\Projects\TemplateExamSocket\ClientProject\obj\Debug\ClientProject.exe
+E:\VisualStudio2015\Projects\TemplateExamSocket\ClientProject\obj\Debug\ClientProject.pdb

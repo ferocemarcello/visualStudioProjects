@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e29cf424-d901-4910-a869-fef28977424b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1559/AuctionsService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AuctionsService.xsd" MetadataType="Schema" ID="f1e05718-2418-47c2-8bec-0613ea32d155" SourceId="1" SourceUrl="http://localhost:1559/AuctionsService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AuctionsService1.xsd" MetadataType="Schema" ID="ddf85f22-6649-486d-9f60-0fcdea9059a0" SourceId="1" SourceUrl="http://localhost:1559/AuctionsService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AuctionsService.disco" MetadataType="Disco" ID="307d261b-b0a9-4a8b-bfd3-392af233f111" SourceId="1" SourceUrl="http://localhost:1559/AuctionsService.svc?disco" />
+    <MetadataFile FileName="AuctionsService2.xsd" MetadataType="Schema" ID="15670f50-9d04-4422-ba54-1362dd5395ed" SourceId="1" SourceUrl="http://localhost:1559/AuctionsService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AuctionsService.wsdl" MetadataType="Wsdl" ID="539c31a9-f731-45f0-871d-d734bd754f99" SourceId="1" SourceUrl="http://localhost:1559/AuctionsService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

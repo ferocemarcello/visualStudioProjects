@@ -1,0 +1,18 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\bin\Debug\Test.dll
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\bin\Debug\Test.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\bin\Debug\AuctionHouseProject.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\bin\Debug\AuctionHouseProject.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\obj\Debug\Test.dll
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\obj\Debug\Test.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\bin\Debug\Client.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\auctionhouserepo\Test\bin\Debug\Client.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\bin\Debug\Test.dll
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\bin\Debug\Test.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\bin\Debug\AuctionHouseProject.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\bin\Debug\Client.exe
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\bin\Debug\AuctionHouseProject.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\bin\Debug\Client.pdb
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\obj\Debug\Test.dll
+C:\Users\Shap\Desktop\Interdisciplinary\Project1\auctionhouserepo\Test\obj\Debug\Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise6\Week34Exercise6\bin\Debug\Week34Exercise6.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise6\Week34Exercise6\bin\Debug\Week34Exercise6.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise6\Week34Exercise6\bin\Debug\Week34Exercise6.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise6\Week34Exercise6\obj\Debug\Week34Exercise6.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise6\Week34Exercise6\obj\Debug\Week34Exercise6.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\Programming\Week34Exercise6\Week34Exercise6\obj\Debug\Week34Exercise6.pdb

@@ -1,0 +1,15 @@
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\bin\Debug\Login_Module.exe.config
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\bin\Debug\Login_Module.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\bin\Debug\Login_Module.pdb
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\obj\Debug\Login_Console.csprojResolveAssemblyReference.cache
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\obj\Debug\Login_Module.exe
+C:\Users\feroc\visual_studio_projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\obj\Debug\Login_Module.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Module\bin\Debug\Login_Module.exe.config
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Module\obj\Debug\Login_Module.exe
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Module\obj\Debug\Login_Module.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Module\bin\Debug\Login_Module.exe
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Module\bin\Debug\Login_Module.pdb
+C:\Users\Shap\Desktop\System development\Progetti\Mine\Login_Module\Login_Module\obj\Debug\Login_Console.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\bin\Debug\Login_Module.exe.config
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\obj\Debug\Login_Module.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\ComputerScience\SystemDevelopment\Login_Module\Login_Module\obj\Debug\Login_Module.pdb

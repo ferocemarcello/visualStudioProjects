@@ -1,0 +1,20 @@
+﻿@model Exercise31_10_2016.Models.CalcModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.TextBox("Num1", Model.Num1.ToString());
+    @Html.TextBox("Num2", Model.Num2.ToString());
+
+    @Html.TextBox("Result", Model.Result.ToString());
+
+    <input name="submit" type="submit" id="submitAdd" value="Add" />
+    <input name="submit" type="submit" id="submitSubtract" value="Subtract" />
+    <input name="submit" type="submit" id="submitMultiply" value="Multiply" />
+    <input name="submit" type="submit" id="submitDivide" value="Divide" />
+}

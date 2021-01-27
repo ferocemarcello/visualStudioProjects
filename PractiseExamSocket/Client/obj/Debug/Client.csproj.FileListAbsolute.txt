@@ -1,0 +1,8 @@
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\bin\Debug\Client.exe.config
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\bin\Debug\Client.exe
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\bin\Debug\Client.pdb
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\bin\Debug\PractiseExamSocket.exe
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\bin\Debug\PractiseExamSocket.pdb
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\obj\Debug\Client.exe
+E:\VisualStudio2015\Projects\PractiseExamSocket\Client\obj\Debug\Client.pdb

@@ -1,0 +1,38 @@
+﻿@model Exercise31_10_2016.Models.Valutas
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    string s1;
+    string s2;
+    string s3;
+    string s4;
+    if (Model == null)
+    {
+        s1 = "";
+        s2 = "";
+        s3 = "";
+        s4 = "";
+    }
+    else
+    {
+        s1 = Model.Valuta1.ISO;
+        s2 = Model.Valuta2.ISO;
+        s3 = Model.Amount.ToString();
+        s4 = Model.ExchangedAmount.ToString();
+    }
+    @Html.Label("Valuta 1 Iso");
+    @Html.TextBox("ISO1", s1);
+    @Html.Label("Valuta 2 Iso");
+    @Html.TextBox("ISO2", s2);
+    @Html.Label("Amount");
+    @Html.TextBox("Amount", s3);
+    @Html.TextBox("Result", s4);
+
+    <input name="ConvertValuta" type="submit" id="Convert" value="Convert" />
+}

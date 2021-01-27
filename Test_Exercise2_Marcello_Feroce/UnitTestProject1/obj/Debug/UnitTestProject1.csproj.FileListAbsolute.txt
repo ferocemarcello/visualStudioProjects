@@ -1,0 +1,7 @@
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\Test_Exercise2_Marcello_Feroce\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\Test_Exercise2_Marcello_Feroce\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\Test_Exercise2_Marcello_Feroce\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\Test_Exercise2_Marcello_Feroce\UnitTestProject1\bin\Debug\Project1.exe
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\Test_Exercise2_Marcello_Feroce\UnitTestProject1\bin\Debug\Project1.pdb
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\Test_Exercise2_Marcello_Feroce\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\feroc\OneDrive\Documenti\Visual Studio 2015\Projects\Test_Exercise2_Marcello_Feroce\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

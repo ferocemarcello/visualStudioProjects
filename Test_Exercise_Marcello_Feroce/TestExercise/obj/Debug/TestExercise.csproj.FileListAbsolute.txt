@@ -1,0 +1,6 @@
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\TestExercise\bin\Debug\TestExercise.exe.config
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\TestExercise\bin\Debug\TestExercise.exe
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\TestExercise\bin\Debug\TestExercise.pdb
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\TestExercise\obj\Debug\TestExercise.csprojResolveAssemblyReference.cache
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\TestExercise\obj\Debug\TestExercise.exe
+c:\users\feroc\onedrive\documenti\visual studio 2015\Projects\Test_Exercise_Marcello_Feroce\TestExercise\obj\Debug\TestExercise.pdb
